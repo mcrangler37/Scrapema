@@ -1,0 +1,33 @@
+body {
+  background-color: #2c2f33;
+  width: 1080px;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  border-color: #000000;
+  background-color: #23272A;
+  font-size: 48px;
+  font-family: Nunito-Regular;
+  color: white;
+  position: relative;
+  left: 478px;
+  top: 128px;
+}
+
+
+
+@font-face {
+  font-family: Nunito-Regular;
+  src: url(Nunito/static/Nunito-Regular.ttf);
+} div {
+  font-family: Nunito-Regular;
+}
+
+@font-face {
+  font-family: Nunito-ExtraBold;
+  src: url(Nunito/static/Nunito-ExtraBold.ttf);
+} div {
+  font-family: Nunito-ExtraBold;
+}
